@@ -1,4 +1,4 @@
-# Automação de Cadastros — Assisty
+# Automação de onboarding/offboarding
 
 Aplicação para gerenciar o onboarding e o desligamento de operadores nos portais CRM Ligo e AYTY. A equipe registra as solicitações em um formulário web; um robô local processa a fila nos portais e atualiza os registros no Google Sheets.
 
